@@ -1,0 +1,11 @@
+docs/
+.DS_Store
+._.DS_Store
+._Contributions.txt
+._Doxyfile
+._License.txt
+._Makefile
+._README
+._docs
+._src
+
